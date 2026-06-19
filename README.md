@@ -15,11 +15,11 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/aakash-kumar-prasad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:Aakash301p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
@@ -84,7 +84,6 @@ me = AakashKumarPrasad()
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -263,11 +262,11 @@ Advanced SQL & Analytics      ████████████░░░░  
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+<a href="https://www.linkedin.com/in/aakash-kumar-prasad/)">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="Aakash301p@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
